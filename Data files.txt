@@ -1,0 +1,5 @@
+If you'd like to retrain our model, please download the data file from the following link:  
+**Data File:** [Download Here](https://drive.google.com/file/d/1vZlbluFt9lmYVUADBZaP-N4mnuY-ETeJ/view?usp=drive_link)
+
+Alternatively, if you want to test our pretrained models, you can download them from the link below:  
+**Pretrained Models:** [Download Here](https://drive.google.com/file/d/1p7cnV2CVgI2gD34EsnzwdfDlTEOPKd7y/view?usp=drive_link)
